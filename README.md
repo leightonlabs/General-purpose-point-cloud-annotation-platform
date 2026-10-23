@@ -7,3 +7,5 @@ A platform applicable to point cloud data, with customizable output rules and co
 - 一期范围：单帧点云的三维立体框（含跟踪 ID）与逐点语义分割，打通导入、派工、标注、提交校验、质检审核、导出全链路。
 - 交付说明：[docs/08-一期交付说明.md](./docs/08-一期交付说明.md)
 - 分阶段开发记录（进度、待定事项、待解答问题、下一阶段计划）：[docs/09-分阶段开发记录.md](./docs/09-分阶段开发记录.md)
+- 当前开发计划（作业台重构与六个标注控件）：[docs/10-作业台重构与控件开发计划.md](./docs/10-作业台重构与控件开发计划.md)
+- 作业台参考页面：[4D点云分割作业平台结构.html](./4D点云分割作业平台结构.html)
